@@ -1,7 +1,7 @@
 ---
 permalink: index.html
 ---
-# pfeifferchsforks.github.io 's GitHub Pages 
+# {{ PAGES_GITHUB_HOSTNAME }} 's GitHub Pages 
 
 https://pfeifferchsforks.github.io/
 
